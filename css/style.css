@@ -58,4 +58,9 @@ width: 48%;
   width: 40%;
   height: 60%; 
 }
+
+.large {
+  width: 60%;
+  height: 80%; 
+}
 /* create your tile classes! we recommend .small .med .large */
